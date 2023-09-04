@@ -4,5 +4,5 @@
 - [Er det jul?](https://isitchristmas.com)
 - [single sign on](https://sso.sdu.dk/?ticket=ST-662834-irjwgtVBAsQLNvrN2gK7RcehPcdR96xjC6yekeDSnACB3DvSXY)
 ## Eksempel formatering:
-1. *italics* fremhævning.
-2. **bold** fremhævning.
+1. *italics* tekst.
+2. **bold** tekst.
